@@ -22,15 +22,15 @@ The project demonstrates data cleaning, data modeling, DAX calculations, and das
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/Executive Overview.png)
+![Executive Overview](Screenshots/Executive-Overview.png)
 
 ### Product Analysis
 
-![Product Analysis](Screenshots/Product Analysis.png)
+![Product Analysis](Screenshots/Product-Analysis.png)
 
 ### Sales Team Performance
 
-![Sales Team Performance](Screenshots/Sales Team Performance.png)
+![Sales Team Performance](Screenshots/Sales-Team-Performance.png)
 
 ---
 
